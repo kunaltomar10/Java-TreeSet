@@ -16,6 +16,7 @@ public class P9 {
         for (Integer num : set.headSet(7)) {
             System.out.println(num);
         }
+       
     }
 }
 
